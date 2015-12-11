@@ -14,7 +14,12 @@ p  {
 		color:#00004d;
 	}
 
-.image {
-	max-height: 281px;
-	max-width: 500px;
+.container {
+	height: 281px;
+	width: 500px;
+}
+
+.container img{
+	width: 100%
+	height: auto;
 }
